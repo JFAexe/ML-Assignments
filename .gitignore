@@ -1,0 +1,10 @@
+__pycache__
+.mypy_cache
+
+logs
+plugins
+minio_data
+wait-for-it.sh
+
+*.csv
+!TelcoCustomerChurn.csv

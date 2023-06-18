@@ -1,0 +1,6 @@
+{
+    "s3_data": "data",
+    "s3_models": "models",
+    "s3_predictions": "predictions",
+    "s3_server": "minio:9000"
+}
